@@ -1,0 +1,598 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vota non bella New Castle's heartie gratulation to her sacred soveraign King Charles the Second on Hisnow [sic] glorious restauration to his birth-right-power / by Ralph Astell.</title>
+            <author>Astell, Ralph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26098</idno>
+            <idno type="STC">Wing A4068</idno>
+            <idno type="STC">ESTC R28309</idno>
+            <idno type="EEBO-CITATION">10521871</idno>
+            <idno type="OCLC">ocm 10521871</idno>
+            <idno type="VID">45185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vota non bella New Castle's heartie gratulation to her sacred soveraign King Charles the Second on Hisnow [sic] glorious restauration to his birth-right-power / by Ralph Astell.</title>
+                  <author>Astell, Ralph.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Stephen Bulkley,</publisher>
+                  <pubPlace>Gateshead :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45185:1"/>
+            <p>VOTA, NON BELLA.</p>
+            <p>NeVV-CaſtLe's HeartIe GratVLatIon TO HER SaCreD SoVeraIgn KIng CharLes The SeConD; ON HIs noVV-GLorIoVs ReſtaVratIon To HIs BIrth-rIght-PoVVer.</p>
+            <p>By <hi>RALPH ASTELL, M. A.</hi>
+            </p>
+            <p>
+               <hi>Gateſhead,</hi> Printed by <hi>Stephen Bulkley,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:45185:2"/>
+            <pb n="3" facs="tcp:45185:2"/>
+            <head>VOTA, NON BELLA, &amp;c.</head>
+            <lg>
+               <l>OH Thou, the High and Lofty Holy-One,</l>
+               <l>Who in that dazling light haſt ſet thy Throne,</l>
+               <l>To which no Eagle-eye approach can make,</l>
+               <l>Nor <hi>Jacobs</hi>-Staff it's altitude can take,</l>
+               <l>Bow, bow the Heavens, and come down and dwell</l>
+               <l>Amid'ſt the Prayſes of thine <hi>Iſraël.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Loyall Phancy with thy Beamlings fill,</l>
+               <l>And ſparkle Day-light from my Nighted Quill</l>
+               <l>Through all the Cranies of our Hemi-ſphere,</l>
+               <l>And with thy ſmiles kiſs up each dewy Tear!</l>
+               <l>Re-briske the Spirits which are almoſt ſpent,</l>
+               <l>And Cure us by our Wound, a <hi>Parl'ament!</hi>
+               </l>
+            </lg>
+            <pb n="4" facs="tcp:45185:3"/>
+            <lg>
+               <l>MAy I preſume amongſt the gliſtring Train</l>
+               <l>Of <hi>Britain's</hi> faireſt Nymphs <hi>(Dread Soveraign!)</hi>
+               </l>
+               <l>On humble Knee to kiſs Your Royall Hand,</l>
+               <l>And Joy You welcome to Your Native Land?</l>
+            </lg>
+            <lg>
+               <l>The Southern Ladies now (I know) will dreſſe</l>
+               <l>Themſelves in all their pretty gaudineſſe;</l>
+               <l>Richly perfum'd with breath of <hi>Maia</hi>'s flowr's,</l>
+               <l>Catch'd from their ſweet Lungs after dewy ſhow'rs:</l>
+               <l>And croud the Treaſures of the bi-fork'd Hill</l>
+               <l>Into th'Alembique of ſome Golden Quill;</l>
+               <l>Then, raptur'd with a Sacred Fire, from thence</l>
+               <l>Drop in Your Princely Ears Loves Quinteſſence</l>
+               <l>In High-born Strains of Poëtry, which ſhall</l>
+               <l>Immertallize Your Great Memoriall.</l>
+            </lg>
+            <lg>
+               <l>Nay, Phoenix-like (methinks) I ſee them bring</l>
+               <l>
+                  <hi>Arabian</hi> Spices on their nimble Wing,</l>
+               <l>And build a Pile; which on Your New-birth-day</l>
+               <l>Kindly aſpected by Your Solar Ray,</l>
+               <l>Becomes a Royall Bon-fire, in whoſe flaſhes</l>
+               <l>They gloriouſly expire; yet 'midſt thoſe Aſhes</l>
+               <l>A Seed is couch'd, which, influenc'd by You,</l>
+               <l>A ſelf-born Phoenix yearly doth renew.</l>
+            </lg>
+            <lg>
+               <l>Whilſt I, black Northern Laſs, from <hi>Kedar</hi>'s Tents</l>
+               <l>Approach Your Court with no ſuch Fragrant Scents:</l>
+               <pb n="5" facs="tcp:45185:3"/>
+               <l>Nor can I Greet You in a Golden Strain,</l>
+               <l>Whoſe fineſt Metall runs through a <hi>Cole Vein,</hi>
+               </l>
+               <l>My dangling treſſes of a deep-dark brown,</l>
+               <l>By ruffling <hi>Boreas</hi> tufted up and down,</l>
+               <l>With Musk nor Amber doe em-breath the Air,</l>
+               <l>Like our young Gallants in their Curled Hair,</l>
+               <l>Befring'd with Atoms Aromaticall;</l>
+               <l>Save <hi>Coale duſt-powder,</hi> I have none at all.</l>
+            </lg>
+            <lg>
+               <l>Yet (Royall SIR!) daign me this onely Grace,</l>
+               <l>To be a Black-patch on ſome Beauties Face;</l>
+               <l>And ſo (perhaps) like darker foyle, I may</l>
+               <l>Cauſe ſparkling Diamonds ſhine with brighter ray.</l>
+               <l>
+                  <hi>Venus</hi> her ſelf is proud of her brown Mole;</l>
+               <l>I have my ſpot too, 'tis a good round Cole:</l>
+               <l>This ſets me off, and makes me Penny-fair;</l>
+               <l>White Swans are common, but a Black one Rare.</l>
+            </lg>
+            <lg>
+               <l>And ſuch a <hi>Bird</hi> upon <hi>Tyne</hi>'s <hi>Banks</hi> ſhall ſing</l>
+               <l>In Loyal Notes, <hi>God ſave Great CHARL'S our KING!</hi>
+               </l>
+               <l>Heav'n fix his Crown! may He ſucceſsfull prove,</l>
+               <l>And ſit Enthroned in His Peoples love!</l>
+               <l>May our <hi>Latonian</hi> Lamps ſtill happy ſhine,</l>
+               <l>And never meet in the Ecliptick Line!</l>
+               <l>May <hi>CHARES,</hi> our Sun (who from the Eld of dayes,</l>
+               <l>And King of Kings derives His Sov'raign Rayes;</l>
+               <l>Ev'n from the Sacred Fount of Orient Light)</l>
+               <l>Scatter the Juncto of the black-brow'd Night</l>
+               <pb n="6" facs="tcp:45185:4"/>
+               <l>With His Majeſtique Preſence, and caſhier</l>
+               <l>The Foggy Miſts out of our Hemi-ſphere!</l>
+               <l>May He tran-ſpierce with Juſtice-darting Eyes</l>
+               <l>The Murders, Rapines, Treaſons, Blaſphemies,</l>
+               <l>That have been Acted on Great <hi>Britain</hi>'s Stage,</l>
+               <l>By the Scene-ſervers of this Maſqued Age:</l>
+               <l>Whil'ſt they re-guild each weather-beaten Front,</l>
+               <l>That has true Loyalty enſtamp'd upon't!</l>
+               <l>May He not ceaſe Benignly to aſpect</l>
+               <l>The <hi>Parl'ament;</hi> our Moon, that does reflect</l>
+               <l>No ſelf (but borrow'd) Luſtre; whether ſhe</l>
+               <l>Be in her <hi>Apo</hi>-or her <hi>Peri-ge!</hi>
+               </l>
+               <l>May ſhe (kind Heav'ns!) ſtill in the Full appear,</l>
+               <l>But never Act beyond her proper Sphere!</l>
+               <l>Or juſtle <hi>Phoebus,</hi> or with her long Train</l>
+               <l>Preſume hereafter to mount <hi>CHARLES</hi>'s Wain!</l>
+               <l>And let that Tongue ne'r coyn a ſound agen,</l>
+               <l>That will not play the Clerk, and ſay, <hi>Amen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For though (by reaſon of a duskie ſlough</l>
+               <l>That over-caſts the ſurface of my Brow)</l>
+               <l>I cannot ſhew ſo ſmooth a white-skinn'd hue</l>
+               <l>As other Madame, yet my Heart's as true;</l>
+               <l>Who, could they through thoſe <hi>ſecret Chambers</hi> glance,</l>
+               <l>Might-thence take Copies of Allegiance.</l>
+               <l>Nay, he that runs may Reade how with my blood</l>
+               <l>To <hi>Faith's Defender</hi> I ſtill faithfull ſtood.</l>
+               <pb n="7" facs="tcp:45185:4"/>
+               <l>
+                  <hi>Scotland</hi> can witneſs (to her coſt) that I</l>
+               <l>Mis-kenn'd her double-faced Mercury;</l>
+               <l>When as the Brother-hood with rev'rend paws</l>
+               <l>Was called in, t'uphold the Dying Cauſe.</l>
+            </lg>
+            <lg>
+               <l>Her num'rous Army, which about me lay</l>
+               <l>With Bag and Baggage to divide the Prey,</l>
+               <l>Ne'r ſcar-crow'd me: but ſtoutly I did ſtand</l>
+               <l>Ev'n with a handfull (till the utmoſt Sand)</l>
+               <l>To vindicate my Truſt: and when my Wall</l>
+               <l>Earth-quak'd with Powder, on the ground did ſprawl,</l>
+               <l>My Loyalty ne'r ſhook; for well I knew,</l>
+               <l>Who then expir'd, ſtraight way to Heaven flew,</l>
+               <l>Each with his Tomb-ſtone, that ſome Angel might</l>
+               <l>Their Epitaphs to Everlaſting write.</l>
+            </lg>
+            <lg>
+               <l>Eft-ſoon (like <hi>Job</hi>) upon a Dunghil I</l>
+               <l>Was ſet, uncas'd of all my bravery:</l>
+               <l>Yet I embrac'd it with a chearfull ſmile,</l>
+               <l>And thought my ſelf Enthroned all the while;</l>
+               <l>Triumphing in my change of Rags, which were</l>
+               <l>A Badge of Honour to a Cavalier.</l>
+            </lg>
+            <lg>
+               <l>On my firſt Love my Eye was ever bent,</l>
+               <l>Though churliſh Keepers did my hand prevent;</l>
+               <l>Forcing my Purſe (not Heart) ſtrings to dilate,</l>
+               <l>And tribute pay to their <hi>
+                     <g ref="char:V">Ʋ</g>topian</hi> State.</l>
+            </lg>
+            <lg>
+               <l>Our Holy Mother, ſhoulder'd out of dore</l>
+               <l>By graceleſs Sons (who call'd her Romiſh Whore,</l>
+               <pb n="8" facs="tcp:45185:5"/>
+               <l>Of all her-Sacred Ornaments be-ſtrip'd her,</l>
+               <l>And (fie for ſhame!) from poſt to piller whip'd her,</l>
+               <l>With Scorpion-tagged points, which pierc'd ſo deep,</l>
+               <l>That through each Pore her bleeding ſoul did weep)</l>
+               <l>I reverenc'd, as I was wont to do;</l>
+               <l>Nay, bow'd may Knee, and Ask'd her Bleſſing too:</l>
+               <l>Which out of faſhion with their duties grew,</l>
+               <l>Who left the Old-way to ſeek out a New.</l>
+               <l>But 'tis not ſtrange, our Mother they deſpight,</l>
+               <l>Sith they <hi>[Our Father]</hi> have forgotten quite.</l>
+            </lg>
+            <lg>
+               <l>I griev'd to think, her Seamleſs Coat was rent,</l>
+               <l>And our good Shepherds into corners ſent.</l>
+               <l>Grave, Learned Fathers (ſuch my Eyes have ſeen</l>
+               <l>Call'd fore ſome Gifted Brethren of Nineteen,</l>
+               <l>To be new Chatechiz'd about their Graces,</l>
+               <l>Or elſe to quit their more-examin'd Places)</l>
+               <l>Once grac'd my Pulpits, whence my raviſh'd Ear</l>
+               <l>The lively Oracles might freely Hear:</l>
+               <l>But they were ſilenc'd, or elſe whiſper'd ſmall,</l>
+               <l>When <hi>Jeroboam</hi>'s Prieſts began to bawle;</l>
+               <l>Croſſing my Worſhip with an Harp-ſet Note,</l>
+               <l>Which of their Maſters they had got by Rote.</l>
+               <l>Brave <hi>Oliver!</hi> ſtill ſat upon their Lip,</l>
+               <l>With his Encomiums their Tongues they tip:</l>
+               <l>But will not learn ('till forc'd to't by the Rod)</l>
+               <l>How to Pronounce, <hi>CHARLES by the Grace of God.</hi>
+               </l>
+               <pb n="9" facs="tcp:45185:5"/>
+               <l>I muſt confeſs, 'tis but my uſuall fate,</l>
+               <l>To have like Miniſter, like Magiſtrate:</l>
+               <l>Whoſe Rampant Zeal has made me Couchant lie,</l>
+               <l>Scarce ſuff'ring me to look with half an Eye</l>
+               <l>(For many years) towards the Royall Race;</l>
+               <l>Till that good <hi>MONCK</hi> unvail'd his lucky Face.</l>
+               <l>A Face! which, when it bo-pee'd through his hood,</l>
+               <l>Gave us ſome glimpſes of our future good:</l>
+               <l>Our day 'gan break, which long had hid 'its Head,</l>
+               <l>And <hi>Lambert's</hi> ſhaddow's on a ſudden fled.</l>
+               <l>'Twixt hope and fear with looks diſtract we ſit,</l>
+               <l>Not knowing well how this great Change may hit:</l>
+               <l>Sometimes our Spirits frisk, and doe preſage,</l>
+               <l>That <hi>GEORGE</hi> will bring again the Golden Age:</l>
+               <l>When ſtraight ſurprized with a Counter-blaſt,</l>
+               <l>The Scene is changed, and we droop as faſt.</l>
+               <l>Our Leaves (like <hi>Heliotropes</hi>) we ſpread or cloſe,</l>
+               <l>As <hi>GEORGE</hi> his Cloud, or light-ſome Pillar ſhows.</l>
+               <l>But, once full-Orbed with a Sov'raign ray,</l>
+               <l>Our Night was turn'd into a Glorious Day.</l>
+            </lg>
+            <lg>
+               <l>The Free-born People (ne'r till then made free)</l>
+               <l>Shook off their Slave-ſhips, and cry'd <hi>Jubilee.</hi>
+               </l>
+               <l>Knights of the Noble Garter (then) all were;</l>
+               <l>For on his breaſt each man a <hi>GEORGE</hi> did bear.</l>
+            </lg>
+            <lg>
+               <l>Th'Imperiall City (which of late has bin</l>
+               <l>A Cage for unclean birds to neſtle in;</l>
+               <pb n="10" facs="tcp:45185:6"/>
+               <l>As Scriech-Owles, Harpyes, Cormorants, and thoſe</l>
+               <l>Bloud-thirſty Vultures, <hi>Nol</hi> for Judges choſe</l>
+               <l>Of his accurſed Slaughter-houſe) was then</l>
+               <l>A gen'rall Rendezvous of honeſt men.</l>
+               <l>How was ſhe raviſh'd, when her dazled Eye</l>
+               <l>Saw <hi>CHARLES</hi> and <hi>Phoebus</hi> both in <hi>Gemini!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thrice-happy City! whoſe firſt ſtone ('tis ſaid)</l>
+               <l>In the aſcendent Twins was fairly laid:</l>
+               <l>Now more than happy! ſith in the ſame Sign</l>
+               <l>Heav'n fix'd the Head-ſtone of the <hi>ST<g ref="char:V">Ʋ</g>ART</hi>'s Line.</l>
+               <l>(A try'd and pretious ſtone, all wonder-wrought,</l>
+               <l>Though by pretending builders ſet at nought)</l>
+               <l>Whil'ſt that three Kingdoms joyn'd in Conſort, cry</l>
+               <l>Grace, Grace unto it: oh, ſweet Harmony!</l>
+               <l>You Siſter-Nymphs, who play your learned prancks</l>
+               <l>On <hi>Grant</hi> and <hi>Iſis</hi> flow'r-enamel'd Banks!</l>
+               <l>Who with your ſpeaking Eyes can complement</l>
+               <l>The ſcaly Fry out of their Element;</l>
+               <l>And cauſe the Streams ſmooth gliding to advance,</l>
+               <l>And take the murm'ring Pebbles out to dance</l>
+               <l>To your ſweet Lyrick touch! who can in-voice</l>
+               <l>The trembling Leaves, and make the Trees rejoyce:</l>
+               <l>Recant your fawning <hi>Protectorian</hi> Notes,</l>
+               <l>And to an higher Key skrew up your Throats,</l>
+               <l>Your warbling Tongues re-tune, let her be ſhent</l>
+               <l>Who to that bloudy Tyrant durſt preſent</l>
+               <pb n="11" facs="tcp:45185:6"/>
+               <l>Her <hi>[Olive Branch of Peace:]</hi> may that foul crime</l>
+               <l>Hereafter ne'r attaint her Nobler Rhyme!</l>
+               <l>Our <hi>CHARLES</hi> is born again! your Fancies ſearſe,</l>
+               <l>And once more meaſure His Genethliack Verſe.</l>
+            </lg>
+            <lg>
+               <l>Twelve-times <hi>Hyperion</hi> at each Sign has hoaſted</l>
+               <l>(Whilſt through the <hi>Zodiack</hi> his Chariot poſted)</l>
+               <l>Since that Great Britain travelled in pain,</l>
+               <l>To be Deliver'd of a <hi>Soveraign.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The ſtarred Peers, with ſome of Royall Kin,</l>
+               <l>And Loyall Gentry oft were Called-in</l>
+               <l>To her hard Labour, but in vain did play</l>
+               <l>The active Midwives 'fore th'appointed day.</l>
+               <l>For the Great Dragon (known by his Red Noſe)</l>
+               <l>With force and cunning did the work oppoſe;</l>
+               <l>Still ready to devour, a-front he ſtood,</l>
+               <l>And from his mouth caſt out a purple floud,</l>
+               <l>Whoſe raging and impetuous ſtream bore down</l>
+               <l>Law's and Relion's Bancks in ev'ry Town;</l>
+               <l>Ingulphing their Eſtates, Lives, Liberties,</l>
+               <l>Who were engaged in the Enterprize.</l>
+               <l>'Twas Treaſon for to caſt a pitying Eye</l>
+               <l>On her in this her great extremity;</l>
+               <l>Her throws grew ſharp, her bones ſeem'd out of joynt,</l>
+               <l>She faints and ſwounds, each minute at deaths point,</l>
+               <l>She ſweats and ſhricks, her body's on the Rack,</l>
+               <l>Yet who ſo hardy, as to hold her Back?</l>
+               <pb n="12" facs="tcp:45185:7"/>
+               <l>
+                  <hi>Slingsby</hi> miſcarri'd, <hi>Hewit</hi> loſt his head,</l>
+               <l>'Cauſe he ſtood by her in the time of need.</l>
+            </lg>
+            <lg>
+               <l>As big as ſhe can tumble, then ſhe cries,</l>
+               <l>Help, help <hi>(good Neighbours)</hi> with your <hi>quick</hi> ſupplies!</l>
+               <l>I'm almoſt ſpent, yet doe not give me over;</l>
+               <l>
+                  <hi>Were</hi> I once layd, my ſtrength would ſoon recover.</l>
+            </lg>
+            <lg>
+               <l>Kind <hi>Cheſhire</hi> quickly heard her piteous moan,</l>
+               <l>(Enough to melt an heart hew'd out of ſtone</l>
+               <l>Into a fount of Tears) nor does ſhe ſpare</l>
+               <l>Her deareſt bloud to Uſher in the <hi>Heir.</hi>
+               </l>
+               <l>She <hi>knocks</hi> up <hi>Booth,</hi> who with his Loyall band,</l>
+               <l>Is ready ſtraight to lend his helping hand:</l>
+               <l>But, whil'ſt that others doe too tardy riſe,</l>
+               <l>(Wiping the ſlumber from their half-ſhut Eyes)</l>
+               <l>They are ſurprized, and he forc'd to flie,</l>
+               <l>And leave poor <hi>Britain</hi> in the Straw to lie.</l>
+            </lg>
+            <lg>
+               <l>And thus ſhe lay! affrighted and forlorn;</l>
+               <l>No hopes at all a Saviour would be born:</l>
+               <l>Till Heav'n imploy'd that Noble Inſtrument,</l>
+               <l>And from the North S<hi rend="sup">t</hi>. <hi>GEORGE</hi> on-Horſe-back ſent</l>
+               <l>T'obſtetricate; whoſe Journey ſcarce was don,</l>
+               <l>
+                  <hi>When</hi> ſhe began to Travell with a Son;</l>
+               <l>The happy iſſue of her Pray'rs and Tears,</l>
+               <l>
+                  <hi>Which</hi> had beſieged the Almighty's Ears.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>GEORGE</hi> made no vaunts, yet gave encouragement;</l>
+               <l>Gentle and rough, ſtill in a Miſt he went;</l>
+               <pb n="13" facs="tcp:45185:7"/>
+               <l>Till all was ready for a work ſo great,</l>
+               <l>Then ſtep'd in <hi>GEORGE,</hi> and did the Noble feat;</l>
+               <l>Brought her to Bed, which none before could do;</l>
+               <l>Nay, ſav'd the Darling, and the Mother too:</l>
+               <l>Whoſe ſudden joy made her (by a ſweet fate)</l>
+               <l>The Act of <hi>Amneſty</hi> to antedate.</l>
+            </lg>
+            <lg>
+               <l>Whole Volleys (ſtraight) of Acclamations pierce</l>
+               <l>The Ecchoing Air, another Univerſe</l>
+               <l>Crouds <hi>London</hi>'s ſtreets, to ſee this ſtrange <hi>new thing,</hi>
+               </l>
+               <l>The Reall Preſence of their twice-born <hi>KING.</hi>
+               </l>
+               <l>The Bells, in-ſoul'd by ſome Intelligence,</l>
+               <l>Awaited then no Ringers to commence</l>
+               <l>The welcome Changes, but their Clappers ply,</l>
+               <l>Returning Thanks for her Delivery.</l>
+               <l>Th'Angelick Quire diſmounted roundly (then)</l>
+               <l>And in their Anthems bare a Part with Men.</l>
+               <l>Of all the Set, the Organs mourn'd that day,</l>
+               <l>Their Pipes were ſtop'd ſo hard, they could not play.</l>
+               <l>The People, tickled with the Noble Sounds,</l>
+               <l>Could ſcantly keep their ſouls i'th'bodie's bounds;</l>
+               <l>Some toſs'd their Caps, which in mixt dances hover</l>
+               <l>Above their heads; no need to bid, Uncover.</l>
+               <l>On flexed Knees ſome for <hi>His</hi> health did Pray,</l>
+               <l>Whil'ſt in full Bowles ſome drink their own away.</l>
+               <l>Some clap their hands, who in the tyding throngs</l>
+               <l>Puffing and ſweltring, had quite loſt their tongues.</l>
+               <pb n="14" facs="tcp:45185:8"/>
+               <l>Some 'bout the crackling Bonfires ſhout and ſing,</l>
+               <l>And pretty Babes liſp'd out, <hi>A King! A King!</hi>
+               </l>
+               <l>Oh! what a goodly ſight! what wondring Eyes!</l>
+               <l>What leaping Hearts; to ſee our Sun ariſe</l>
+               <l>In <hi>His</hi> full ſtrength, and lift <hi>His</hi> beaming Head</l>
+               <l>From off the Pillow of <hi>His</hi> Sea-green bed!</l>
+               <l>
+                  <hi>Phoſpher'd</hi> by <hi>GEORGE,</hi> be-Duk'd on either hand;</l>
+               <l>Before, behind the Glory of the Land,</l>
+               <l>Like Planets moving in their gliſtring Spheres,</l>
+               <l>Whil'ſt <hi>CHARLS,</hi> like <hi>Phoebus,</hi> in the mids appears,</l>
+               <l>In bloudleſs Triumph Riding to <hi>His Throne:</hi>
+               </l>
+               <l>For <hi>HE</hi> makes Conqueſt of our Hearts alone.</l>
+            </lg>
+            <lg>
+               <l>Then I, (who whilom ſcarce a <hi>CHARLS</hi> durſt name,</l>
+               <l>Enforc'd to ſhroud the Loyall-mounting Flame</l>
+               <l>In Aſhie Weeds) <hi>brake</hi> forth in vari'd Joy,</l>
+               <l>Deſcanting boldly on, <hi>Vive Le ROY.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>S<hi rend="sup">t</hi>. <hi>GEORGE</hi> no more ſhall (now) a Romance be,</l>
+               <l>But our beſt Story <hi>(MONCK!)</hi> made good in <hi>Thee:</hi>
+               </l>
+               <l>
+                  <hi>Thou</hi> haſt out-vy'd him, may thy Sword ne'r fail,</l>
+               <l>That did (unſheath'd) dis-Rumpe the Dragon's tail;</l>
+               <l>Whoſe fi'ry ſwinge, as round-about it went,</l>
+               <l>Our brighteſt Stars <hi>ſtruck</hi> from the Firmament.</l>
+               <l>Oh, for a <hi>Virgil</hi> now! whoſe <hi>Skilfull</hi> Quill</l>
+               <l>With new <hi>Georgicks</hi> might our Country fill:</l>
+               <l>Whil'ſt I oppreſt with <hi>CHARLES</hi> his crouding glory,</l>
+               <l>Leave After-ages for to write <hi>His</hi> Story!</l>
+            </lg>
+            <pb n="15" facs="tcp:45185:8"/>
+            <lg>
+               <l>And now (Great Monarch!) leſt my longer ſtay</l>
+               <l>Should fright the Ladies at Your Court away,</l>
+               <l>(Whoſe dainty ſtomachs will, <hi>I know,</hi> diſdain</l>
+               <l>The poor proviſion of my courſer brain)</l>
+               <l>Unto my ſmutchy Cell I will retire,</l>
+               <l>And what I cannot utter, there admire.</l>
+            </lg>
+            <lg>
+               <l>I'le ſit me down, and wonder how You made</l>
+               <l>(O're-come at <hi>Worſter,</hi> not to ſay, Betray'd</l>
+               <l>By ſuch, who ſold th' <hi>Anointed of the Lord</hi>)</l>
+               <l>Your bleſt eſcape from <hi>Cromwell's</hi> thirſty Sword,</l>
+               <l>That curſt <hi>Nimrodean</hi> Hunter! whoſe <hi>keen Pack</hi>
+               </l>
+               <l>Of quick-nos'd Bloud-hounds travers'd ev'ry <hi>track,</hi>
+               </l>
+               <l>Beat ev'ry Buſh, through this and t'other Wood,</l>
+               <l>To find Your ſteps, and ſuck Your Sacred Blood;</l>
+               <l>Yet loſt their game: Amazed then I'le ſtand,</l>
+               <l>To <hi>think,</hi> how in the hollow of his hand</l>
+               <l>God hid Your Royall Self, and let none ſee,</l>
+               <l>When You took Sanctuary in a Tree.</l>
+               <l>My weeping Eye Your Flittings ſhall review,</l>
+               <l>And in Your exile go along with You.</l>
+               <l>I'le draw an abſtract of <hi>Your</hi> many dangers,</l>
+               <l>
+                  <hi>By Your</hi> own Country men, falſe Friends &amp; Strangers,</l>
+               <l>Of Robbers, Waters, and the fearfull Deep,</l>
+               <l>In City, Wilderneſs, awake, aſleep.</l>
+            </lg>
+            <lg>
+               <l>Then, on the Counter-part my Rapted Soul,</l>
+               <l>With Pencill dipt in ſome <hi>Caſtalian</hi> Bowle,</l>
+               <pb n="16" facs="tcp:45185:9"/>
+               <l>Shall-limne a Land-ſcape of God's gracious Care,</l>
+               <l>His Love and Mercies, Various, Rich and Rare.</l>
+            </lg>
+            <lg>
+               <l>Both in Your Baniſhment and Reſtauration</l>
+               <l>To <hi>Your</hi> returning People of this Nation,</l>
+               <l>
+                  <hi>You</hi> were be-miracled, and may be ſaid,</l>
+               <l>In <hi>Hieroglyphicks</hi> to be all arrai'd.</l>
+            </lg>
+            <lg>
+               <l>From <hi>You</hi> our happy <hi>Aera</hi> ſhall commence,</l>
+               <l>Who were the Maſter-piece of Providence.</l>
+            </lg>
+            <lg>
+               <l>OH, let us not (good Lord!) let us no more,</l>
+               <l>Inſtead of one juſt Monarch ſerve Five-ſcore</l>
+               <l>Uſurping Kinglings! keep us all entire,</l>
+               <l>Rendring the Son what we deny'd the Sire.</l>
+               <l>Reſtore in <hi>CHARLES</hi> our Church, Laws, Liberties,</l>
+               <l>And make our Hearts a willing Sacrifice!</l>
+               <l>Let us no more Revolt, but have a care,</l>
+               <l>How we conſpire againſt the Lawfull Heir!</l>
+               <l>That bleſt with Peace and Plenty, we may ſing,</l>
+               <l>Glory to God on High for Our Good KING!</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Te<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſtichon.</head>
+            <l>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ltima magnarum Prognoſtica Linea rerum,</hi>
+            </l>
+            <l>
+               <hi>Quâ</hi> CAROLI <hi>Primi finitur Regis Imago,</hi>
+            </l>
+            <l>
+               <hi>In Facie Reducis legitur perfecta Secundi;</hi>
+            </l>
+            <l>
+               <hi>Nato</hi> Vota dabunt, <hi>Patri</hi> quae Bella negârunt.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45185:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
